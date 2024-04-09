@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Kunal and I'm a Data Analyst Enthusisast, from Barnala. </p>
+<p align="left">My name is Kunal and I'm a seeking for an opportuninty to work as Data Analyst, from Barnala. </p>
 
 ###
 
